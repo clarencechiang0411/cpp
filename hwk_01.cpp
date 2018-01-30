@@ -1,4 +1,6 @@
-/*Question #3*/
+/* 
+Question #3
+*/
 
 #include <iostream>
 using namespace std;
@@ -35,3 +37,7 @@ int main ()
     }
   return 0;
 }
+
+/*
+Question #4
+*/
