@@ -18,8 +18,10 @@ int main()
         return 0;
 }
 
+/*******************************************************************************************/
 
 /*Q4: second greatest common divisor*/
+
 #include <iostream>
 using namespace std;
 
