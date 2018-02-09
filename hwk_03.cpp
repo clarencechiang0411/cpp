@@ -2,5 +2,5 @@
 Q3
 */
 
-#include<iostream>
+#include <iostream>
 using namespace std;
